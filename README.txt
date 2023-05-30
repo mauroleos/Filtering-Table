@@ -1,4 +1,4 @@
-This is a React projec called Pivot-Table that implements a table with filtering functionality. It displays data fetched from an API and allows the user to filter the data based on selected IP addresses.
+This is a React projec called Filtering-Table that implements a table with filtering functionality. It displays data fetched from an API and allows the user to filter the data based on selected IP addresses.
 
 Dependencies
 The project uses the following dependencies:
