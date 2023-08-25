@@ -1,7 +1,7 @@
 {
-  "name": "fletch",
+  "name": "filtering-table",
   "version": "1.0.0",
-  "description": "Fletch project",
+  "description": "filtering table",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve",
